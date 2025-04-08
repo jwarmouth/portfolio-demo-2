@@ -1,5 +1,5 @@
 html {
-  color: black;
+  color: maroon;
 }
 
 #menu li {
@@ -9,5 +9,6 @@ html {
 #projects li {
   display: inline-block;
   list-style: none;
+  width: 300px;
   border-right: 50px;
 }
