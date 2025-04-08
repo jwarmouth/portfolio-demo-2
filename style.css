@@ -1,4 +1,10 @@
-html 
-{
+html {
   color: black;
+}
+
+#menu {
+}
+
+#projects li {
+  float: left;
 }
