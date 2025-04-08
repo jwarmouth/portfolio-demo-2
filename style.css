@@ -2,7 +2,8 @@ html {
   color: black;
 }
 
-#menu {
+#menu li {
+  float: left;
 }
 
 #projects li {
