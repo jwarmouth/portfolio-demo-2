@@ -8,4 +8,6 @@ html {
 
 #projects li {
   float: left;
+  list-style: none;
+  border-right: 50px;
 }
