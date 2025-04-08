@@ -6,6 +6,10 @@ html {
   float: left;
 }
 
+#projects {
+  clear: both;
+}
+
 #projects li {
   display: inline-block;
   list-style: none;
