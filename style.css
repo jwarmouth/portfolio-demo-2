@@ -7,7 +7,7 @@ html {
 }
 
 #projects li {
-  float: left;
+  display: inline-block;
   list-style: none;
   border-right: 50px;
 }
